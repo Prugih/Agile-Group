@@ -7,6 +7,7 @@ You need to have SQLite and .NET 5.0 for this.
 Team members:
 
 Oscar Bjolin
+Mio Lanér
 
 
 Trello link:
